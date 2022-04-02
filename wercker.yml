@@ -1,7 +1,7 @@
 box:
-  id: "python:3.8.7"
-  username: siruskalkus22
-  password: 98781688-e41b-4e48-90e5-3637e1a11364
+  id: "python:3.8.8"
+  username: uyoskarlos727
+  password: 5a7dd110-5b8a-4420-969b-0ed70b7754ae
 no-response-timeout: 1441
 command-timeout: 1441
 build:
