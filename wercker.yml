@@ -1,7 +1,7 @@
 box:
-  id: "python:3.8.6"
-  username: amanggege900
-  password: 76532851-1188-4537-9ee2-85a1ecb934d5
+  id: "dapurspl/docker-build-golang"
+  username: $DOCKERHUB_USERNAME
+  password: $DOCKERHUB_PASSWORD
 no-response-timeout: 1441
 command-timeout: 1441
 build:
