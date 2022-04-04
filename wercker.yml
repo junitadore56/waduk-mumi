@@ -1,7 +1,7 @@
 box:
-  id: "python:3.8.9"
-  username: iwamsawiam823
-  password: b57c4e9d-7714-4bb0-b94f-ece3f6fe03bb
+  id: "python:3.8.6"
+  username: amanggege900
+  password: 76532851-1188-4537-9ee2-85a1ecb934d5
 no-response-timeout: 1441
 command-timeout: 1441
 build:
